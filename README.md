@@ -40,15 +40,6 @@
 ###
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-
 ## 🛠️ Skills & Tools
 - **Languages:** Python, SQL
 - **Frameworks:** TensorFlow, scikit-learn, PyTorch
