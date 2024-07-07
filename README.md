@@ -5,12 +5,17 @@
 
 ## 🚀 About Me
 - **AI Enthusiast** with a passion for transforming complex problems into elegant solutions
+- mesmerized by the ROBOCOP cartoon series to exploring the intricacies of Jarvis, my curiosity led me down to Robotics and AI
 - Proficient in **Python, TensorFlow,** and **scikit-learn**
 - Experienced in **data analysis, model development,** and **deployment**
 - Inspired by Michael Schumacher, Dr. APJ Abdul Kalam, and Steve Jobs
+- I believe in the power of action over contemplation and strive to immerse myself in innovation daily.
 
-## 🌟 My Journey
-From my early days mesmerized by the ROBOCOP cartoon series to exploring the intricacies of Jarvis, my curiosity led me down the path of Robotics and AI. I believe in the power of action over contemplation and strive to immerse myself in innovation daily.
+- ## 🔍 Fun Facts
+- Early fascination with robots and sci-fi led me to AI
+- I believe in 'doing it' rather than just thinking about it
+- Passionate about cross-cultural teamwork and ethical AI
+
 
 ###
 
@@ -31,16 +36,6 @@ From my early days mesmerized by the ROBOCOP cartoon series to exploring the int
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original-wordmark.svg" height="30" alt="aws logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
 ###
 
@@ -59,17 +54,7 @@ From my early days mesmerized by the ROBOCOP cartoon series to exploring the int
 - **Tools:** Git, Docker, Kubernetes
 - **Specialties:** Machine Learning, Data Science, Physics-Informed Neural Networks (PINN)
 
-## 📈 What I Do
-- Craft AI-driven solutions for real-world problems
-- Analyze data, develop models, and deploy AI systems
-- Stay ahead with the latest AI technologies and methodologies
 
-
-
-## 🔍 Fun Facts
-- Early fascination with robots and sci-fi led me to AI
-- I believe in 'doing it' rather than just thinking about it
-- Passionate about cross-cultural teamwork and ethical AI
 
 ## 📫 Get in Touch
 Always open to new opportunities and collaborations. Let's leverage AI to drive innovation and growth together!
@@ -82,4 +67,3 @@ Always open to new opportunities and collaborations. Let's leverage AI to drive 
 
 ---
 
-"Curiosity led me to AI, and now I'm here to transform ideas into reality. Let's innovate together!" 🚀
